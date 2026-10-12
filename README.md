@@ -33,7 +33,7 @@ Non-technical people, especially immigrant families, who find it hard to tell re
 - **Privacy:** the message is checked on the user's computer, and a status light shows whether the AI is running
 
 
-## How it works
+
 ## How it works
 ```
 Message --> rules.py --> Gemma 3 4B via Ollama --> checker.py --> app.py
@@ -76,7 +76,9 @@ Message --> rules.py --> Gemma 3 4B via Ollama --> checker.py --> app.py
 | `assets/` | The logo and mascot images |
 
 ## How to run it
-You need Python 3.9 or newer and [Ollama](https://ollama.com).
+   You need Python 3.12 or 3.13 and [Ollama](https://ollama.com).
+
+   > ⚠️ **Note:** Newer versions like Python 3.15 aren't supported yet. Some dependencies (pyarrow, pyyaml) don't have ready-made versions for them, so `pip install` will fail.
 
 1. Install Ollama and open it (it must stay running).
 2. Download the model:
