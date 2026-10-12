@@ -8,6 +8,7 @@ Non-technical people, especially immigrant families, who find it hard to tell re
 
 ## Our Entry
 - **Challenge:** Best Open-Source AI Project (main challenge)
+- **Result:** 🏆 Co-winner, Best Open-Source AI Project
 - **Type:** a project built on an open-weight small language model (Gemma 3 4B, 4 billion parameters)
 - **License:** MIT
 
@@ -84,7 +85,7 @@ You need Python 3.9 or newer and [Ollama](https://ollama.com).
 ```
 3. Get the code:
 ```
-   git clone https://github.com/mariyam-faisal/PhishGuard-Family.git
+   git clone https://github.com/hibbahowais/PhishGuard-Family.git
    cd PhishGuard-Family
 ```
 4. Install the packages:
