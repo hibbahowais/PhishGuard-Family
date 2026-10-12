@@ -101,11 +101,13 @@ Message --> rules.py --> Gemma 3 4B via Ollama --> checker.py --> app.py
 6. Open http://localhost:8501 in your browser.
 
 ## Screenshots
-<img width="730" height="431" alt="1" src="https://github.com/user-attachments/assets/d63eb693-0345-4e96-b109-dbf14e43ebc1" />
-<img width="734" height="428" alt="2" src="https://github.com/user-attachments/assets/aa02cc9a-3085-4b28-b55e-b8c1286025b1" />
-<img width="733" height="431" alt="3" src="https://github.com/user-attachments/assets/2f2cf363-87a6-4cc7-9b4b-803cad246e22" />
-<img width="733" height="428" alt="4" src="https://github.com/user-attachments/assets/d188c7a7-b367-4c37-9cce-df3101cc119e" />
-<img width="736" height="428" alt="5" src="https://github.com/user-attachments/assets/9501f9e0-8ca8-4e16-ad8e-421806df1962" />
+<img width="1917" height="1017" alt="Screenshot 2026-10-12 133959" src="https://github.com/user-attachments/assets/2526d877-0c8e-449b-8e7e-83c874cb8644" />
+<img width="1917" height="1017" alt="Screenshot 2026-10-12 134146" src="https://github.com/user-attachments/assets/dc599b09-83cf-4182-9492-4f81713e0e7c" />
+<img width="1916" height="1020" alt="Screenshot 2026-10-12 134332" src="https://github.com/user-attachments/assets/0bd65a95-a271-44a5-8e3f-72b9de36de8a" />
+<img width="1917" height="1020" alt="Screenshot 2026-10-12 134356" src="https://github.com/user-attachments/assets/0b81b96d-8637-4a53-a6da-31fefd0fd030" />
+<img width="1917" height="1017" alt="Screenshot 2026-10-12 135547" src="https://github.com/user-attachments/assets/676c90c2-8b5a-4e9b-85d6-95108126bc22" />
+<img width="1917" height="1020" alt="Screenshot 2026-10-12 135619" src="https://github.com/user-attachments/assets/ad002692-1dd2-4924-ae78-a0bdb796a2e0" />
+
 
 
 ## Limitations
