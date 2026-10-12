@@ -105,7 +105,6 @@ Message --> rules.py --> Gemma 3 4B via Ollama --> checker.py --> app.py
 <img width="1917" height="1017" alt="Screenshot 2026-10-12 134146" src="https://github.com/user-attachments/assets/dc599b09-83cf-4182-9492-4f81713e0e7c" />
 <img width="1916" height="1020" alt="Screenshot 2026-10-12 134332" src="https://github.com/user-attachments/assets/0bd65a95-a271-44a5-8e3f-72b9de36de8a" />
 <img width="1917" height="1020" alt="Screenshot 2026-10-12 134356" src="https://github.com/user-attachments/assets/0b81b96d-8637-4a53-a6da-31fefd0fd030" />
-<img width="1917" height="1017" alt="Screenshot 2026-10-12 135547" src="https://github.com/user-attachments/assets/676c90c2-8b5a-4e9b-85d6-95108126bc22" />
 <img width="1917" height="1020" alt="Screenshot 2026-10-12 135619" src="https://github.com/user-attachments/assets/ad002692-1dd2-4924-ae78-a0bdb796a2e0" />
 
 
